@@ -1,11 +1,11 @@
 {
-  "name": "OwlClock",
-  "version": "1.1.0",
+  "name": "OwlClock-dev",
+  "version": "1.1.0-dev",
   "manifest_version": 1,
   "icon": "/logo.svg",
-  "description": "A simple in-game clock.",
+  "description": "A simple in-game clock. (This is a development version, expect bugs! Release version: https://owlclock.vijexa.dev/manifest.json)",
   "action": {
-    "title": "OwlClock",
+    "title": "OwlClock-dev",
     "icon": "/icon.svg",
     "popover": "/",
     "height": 300,
